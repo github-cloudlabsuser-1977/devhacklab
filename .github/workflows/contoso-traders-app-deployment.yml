@@ -2,6 +2,8 @@ name: contoso-traders-app-deployment
 
 on:
   workflow_dispatch:
+  push:
+   branches: ["main"]
 
 env:
 
