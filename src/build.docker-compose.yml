@@ -3,6 +3,6 @@ services:
 api:
     build: ./ContosoTraders.Ui.Website/
     app id: ae3192cd-982e-4bfa-911c-d20d5100df01
-    app secret: nX38Q~pVOf73L8I7.uWwTOTbVdKWt0Ctiq7bY3
+    app secret: nX38Q~pVOf73L8I7.uWwTOTbVdKWt0AdCtiq7bY3
 web:
   build: ./ContosoTraders.Api.Products
